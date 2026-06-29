@@ -1,0 +1,1 @@
+Version control is important in collaborative projects since it allows for developers to work on a project coherently. Projects are allowed to be managed in a way wherein changes would not be conflicting with each other. Developers can also monitor and see changes made in each version.
